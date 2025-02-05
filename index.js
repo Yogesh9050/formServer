@@ -1,7 +1,5 @@
 const http=require('http');
 
-const fs=require('fs');
-
 const routes=require('./routes')
 
 //import { buffer } from 'stream/consumers';
